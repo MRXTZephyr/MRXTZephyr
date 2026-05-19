@@ -22,7 +22,7 @@
 <div align="center">
 
 ```
-不断学习 • 계속 성장 • keep moving forward
+生涯学習 • 계속 성장하다 • keep moving forward
 ```
 
 </div>
