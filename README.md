@@ -74,9 +74,9 @@ mrx = {
 ## 🔭 Currently
 
 ```
-[ ████████░░░░░░░░░░░░ ] 40% — Systems thinking
-[ ██████░░░░░░░░░░░░░░ ] 30% — English B1 → B2
-[ ████░░░░░░░░░░░░░░░░ ] 20% — Something you haven't seen yet
+[ █████████████░░░░░░░ ] 65% — Systems thinking
+[ ███████████░░░░░░░░░ ] 50% — English B1 → B2
+[ █████░░░░░░░░░░░░░░░ ] 25% — Something you haven't seen yet
 ```
 
 ---
